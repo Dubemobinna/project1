@@ -1,5 +1,0 @@
-Hello
-How are you?
-This is file 1 inside Gittest
-My first changes
-These are also new changes for the third time.
